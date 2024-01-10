@@ -1,0 +1,231 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/Walk/1.png",
+                "type": "image",
+                "key": "1"
+            },
+            {
+                "url": "assets/images/Walk/10.png",
+                "type": "image",
+                "key": "10"
+            },
+            {
+                "url": "assets/images/Walk/11.png",
+                "type": "image",
+                "key": "11"
+            },
+            {
+                "url": "assets/images/Walk/12.png",
+                "type": "image",
+                "key": "12"
+            },
+            {
+                "url": "assets/images/Walk/13.png",
+                "type": "image",
+                "key": "13"
+            },
+            {
+                "url": "assets/images/Walk/14.png",
+                "type": "image",
+                "key": "14"
+            },
+            {
+                "url": "assets/images/Walk/15.png",
+                "type": "image",
+                "key": "15"
+            },
+            {
+                "url": "assets/images/Walk/16.png",
+                "type": "image",
+                "key": "16"
+            },
+            {
+                "url": "assets/images/Walk/2.png",
+                "type": "image",
+                "key": "2"
+            },
+            {
+                "url": "assets/images/Walk/3.png",
+                "type": "image",
+                "key": "3"
+            },
+            {
+                "url": "assets/images/Walk/4.png",
+                "type": "image",
+                "key": "4"
+            },
+            {
+                "url": "assets/images/Walk/5.png",
+                "type": "image",
+                "key": "5"
+            },
+            {
+                "url": "assets/images/Walk/6.png",
+                "type": "image",
+                "key": "6"
+            },
+            {
+                "url": "assets/images/Walk/7.png",
+                "type": "image",
+                "key": "7"
+            },
+            {
+                "url": "assets/images/Walk/8.png",
+                "type": "image",
+                "key": "8"
+            },
+            {
+                "url": "assets/images/Walk/9.png",
+                "type": "image",
+                "key": "9"
+            },
+            {
+                "url": "assets/images/gamePlay/banana.png",
+                "type": "image",
+                "key": "banana"
+            },
+            {
+                "url": "assets/images/gamePlay/bg.png",
+                "type": "image",
+                "key": "bg"
+            },
+            {
+                "url": "assets/images/settingPopup/Buttons/close.png",
+                "type": "image",
+                "key": "close"
+            },
+            {
+                "url": "assets/images/coin.png",
+                "type": "image",
+                "key": "coin"
+            },
+            {
+                "url": "assets/images/settingPopup/gameOver.png",
+                "type": "image",
+                "key": "gameOver"
+            },
+            {
+                "url": "assets/images/settingPopup/Buttons/home.png",
+                "type": "image",
+                "key": "home"
+            },
+            {
+                "url": "assets/animation/logo_animation.json",
+                "type": "animation",
+                "key": "logo_animation"
+            },
+            {
+                "url": "assets/images/logo_sprite.png",
+                "frameConfig": {
+                    "frameWidth": 116,
+                    "frameHeight": 160,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "logo_sprite"
+            },
+            {
+                "url": "assets/images/settingPopup/music.png",
+                "type": "image",
+                "key": "music"
+            },
+            {
+                "url": "assets/images/gamePlay/partical.png",
+                "type": "image",
+                "key": "partical"
+            },
+            {
+                "url": "assets/images/gamePlay/particles.png",
+                "type": "image",
+                "key": "particles"
+            },
+            {
+                "url": "assets/images/gamePlay/platform.png",
+                "type": "image",
+                "key": "platform"
+            },
+            {
+                "url": "assets/images/settingPopup/Buttons/play.png",
+                "type": "image",
+                "key": "play"
+            },
+            {
+                "url": "assets/images/Splash/playBtn.png",
+                "type": "image",
+                "key": "playBtn"
+            },
+            {
+                "url": "assets/images/gamePlay/player.png",
+                "type": "image",
+                "key": "player"
+            },
+            {
+                "url": "assets/images/settingPopup/Buttons/retry.png",
+                "type": "image",
+                "key": "retry"
+            },
+            {
+                "url": "assets/animation/runAnimation.json",
+                "type": "animation",
+                "key": "runAnimation"
+            },
+            {
+                "url": "assets/images/gamePlay/score_Board.png",
+                "type": "image",
+                "key": "score_Board"
+            },
+            {
+                "url": "assets/images/settingPopup/setting_bg.png",
+                "type": "image",
+                "key": "setting_bg"
+            },
+            {
+                "url": "assets/images/gamePlay/settings.png",
+                "type": "image",
+                "key": "settings"
+            },
+            {
+                "url": "assets/images/settingPopup/sound.png",
+                "type": "image",
+                "key": "sound"
+            },
+            {
+                "url": "assets/images/gamePlay/stick.png",
+                "type": "image",
+                "key": "stick"
+            },
+            {
+                "url": "assets/images/settingPopup/toggle_brown.png",
+                "type": "image",
+                "key": "toggle_brown"
+            },
+            {
+                "url": "assets/images/settingPopup/toggle_btn_brown.png",
+                "type": "image",
+                "key": "toggle_btn_brown"
+            },
+            {
+                "url": "assets/images/settingPopup/toggle_btn_yellow.png",
+                "type": "image",
+                "key": "toggle_btn_yellow"
+            },
+            {
+                "url": "assets/images/settingPopup/toggle_yellow.png",
+                "type": "image",
+                "key": "toggle_yellow"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
